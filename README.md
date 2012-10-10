@@ -1,1 +1,0 @@
-my Sublime Text 2 settings
