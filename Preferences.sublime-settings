@@ -1,0 +1,24 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Color Scheme - Default/Tubster.tmTheme",
+	"detect_slow_plugins": false,
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.psd",
+		".project"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}

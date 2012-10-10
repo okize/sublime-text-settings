@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1349772614,
+	"installed_packages":
+	[
+		"Alignment",
+		"CoffeeScript",
+		"DocBlockr",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVN",
+		"Terminal",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}
