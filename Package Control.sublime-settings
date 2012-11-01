@@ -1,11 +1,11 @@
 {
-	"auto_upgrade_last_run": 1350618186,
+	"auto_upgrade_last_run": 1351812196,
 	"installed_packages":
 	[
 		"Alignment",
 		"CoffeeScript",
 		"DocBlockr",
-		"Git",
+		"emmet-sublime",
 		"HTML5",
 		"jQuery",
 		"LESS",
@@ -13,11 +13,13 @@
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SVN",
 		"Terminal",
-		"Theme - Soda",
-		"ZenCoding"
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime"
 	]
 }
