@@ -98,7 +98,6 @@
     // By deault, eval is allowed.
     "jshint_options":
     {
-      "indent": 2
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.
