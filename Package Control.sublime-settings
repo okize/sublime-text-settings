@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351812196,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
@@ -13,10 +13,12 @@
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SVN",
 		"Terminal",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TidyHTML5"
 	],
 	"repositories":
 	[
