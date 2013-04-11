@@ -3,8 +3,9 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"CoffeeScript",
-		"emmet-sublime",
+		"Emmet",
 		"GitGutter",
 		"HTML5",
 		"Jade",
@@ -21,9 +22,5 @@
 		"SublimeLinter",
 		"Terminal",
 		"Theme - Soda"
-	],
-	"repositories":
-	[
-		"https://github.com/sergeche/emmet-sublime"
 	]
 }
