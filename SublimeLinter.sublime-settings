@@ -60,7 +60,7 @@
         errors are erased when the file is modified, since the assumption is
         you don't want to see errors while you type.
     */
-    "sublimelinter_delay": 2,
+    "sublimelinter_delay": 3,
 
     /*
         Selects the way the lines with errors or warnings are marked; "outline"
@@ -98,6 +98,7 @@
     // By deault, eval is allowed.
     "jshint_options":
     {
+      "indent": 2
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.

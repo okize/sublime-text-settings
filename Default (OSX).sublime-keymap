@@ -7,5 +7,8 @@
 	{ "keys": ["super+shift+c"], "command": "close_all" },
 	{ "keys": ["ctrl+u"], "command": "upper_case" },
 	{ "keys": ["ctrl+l"], "command": "lower_case" },
-	{ "keys": ["super+shift+h"], "command": "show_panel", "args": {"panel": "find_in_files"} }
+	{ "keys": ["super+shift+h"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+  { "keys": ["super+ctrl+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }
 ]

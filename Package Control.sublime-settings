@@ -4,21 +4,23 @@
 	[
 		"Alignment",
 		"CoffeeScript",
-		"DocBlockr",
 		"emmet-sublime",
+		"GitGutter",
 		"HTML5",
+		"Jade",
+		"JavaScript Snippets",
 		"jQuery",
+		"Lazy Backbone.js",
 		"LESS",
+		"Mocha Snippets",
 		"Package Control",
 		"Sass",
-		"SFTP",
 		"SideBarEnhancements",
+		"sublime-better-coffeescript",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SVN",
 		"Terminal",
-		"Theme - Soda",
-		"TidyHTML5"
+		"Theme - Soda"
 	],
 	"repositories":
 	[
