@@ -4,7 +4,8 @@
 	[
 		"Alignment",
 		"All Autocomplete",
-		"CoffeeScript",
+		"Dictionaries",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"HTML5",
@@ -21,6 +22,12 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
+		"Theme - Flatland",
+		"Theme - Phoenix",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/thinkpixellab/flatland/"
 	]
 }

@@ -12,7 +12,7 @@
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
 	"draw_minimap_border": true,
-	"fade_fold_buttons": false,
+	"fade_fold_buttons": true,
 	"file_exclude_patterns":
 	[
 		"*.DS_store",
@@ -49,13 +49,15 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Dictionaries"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"remember_open_files": true,
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
+  "spell_check": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
