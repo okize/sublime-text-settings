@@ -4,6 +4,13 @@
 		"GitGutter",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"SublimeLinter-scss-lint",
 		"Theme - Flatland"
 	]
 }
