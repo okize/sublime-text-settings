@@ -16,5 +16,6 @@
 
 ### Requirements:
 
-  * Sublime Text 2 or 3
+  * Sublime Text 3 or 2
+  * Package Control
   * [Source Code Pro](https://github.com/adobe/Source-Code-Pro) font
