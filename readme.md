@@ -1,4 +1,4 @@
-#my Sublime Text 2 settings
+# Sublime Text 2 settings
 
 Install on OS X:
   1. cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
