@@ -25,8 +25,3 @@
 
   1. Open Sublime Text
   2. Follow instructions to install [package control](https://sublime.wbond.net/installation)
-
-### Step 4: Replace the Default Icon
-
-  1. [Download the icns file](http://cl.ly/Lp3Q)
-  2. mv ~/Downloads/st2.icns /Applications/Sublime\ Text.app/Contents/Resources/Sublime\ Text.icns
