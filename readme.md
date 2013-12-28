@@ -1,11 +1,11 @@
-# Sublime Text 2 settings
+# Sublime Text 2 settings (sublime-text-2 branch)
 
-## Installation (OS X):
+### Installation (OS X):
 
   1. cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
   2. git clone https://github.com/okize/sublimeTextSettings ./
 
-## Requirements:
+### Requirements:
 
   * Sublime Text 2
   * [Source Code Pro](https://github.com/adobe/Source-Code-Pro) font
