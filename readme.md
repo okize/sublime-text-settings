@@ -1,1 +1,1 @@
-# Sublime Text 3 settings (sublime-text-3 branch)
+# Sublime Text 3 Settings
