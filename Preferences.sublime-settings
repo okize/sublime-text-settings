@@ -41,8 +41,8 @@
 		".sass-cache",
 		".git",
 		".hg",
-		"dist",
-		".bin"
+                ".bundle",
+                ".zeus.sock"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 12.0,
