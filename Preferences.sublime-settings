@@ -88,15 +88,14 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 	],
-	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
-	"highlight_line": false,
-	"highlight_modified_tabs": false,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
@@ -139,7 +138,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Flatland.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
