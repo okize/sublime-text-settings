@@ -1,9 +1,0 @@
-{
-	"extensions":
-	[
-		".bash_prompt",
-    ".bash_profile",
-    ".bashrc",
-    ".aliases"
-	]
-}
