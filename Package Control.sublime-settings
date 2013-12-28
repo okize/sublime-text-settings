@@ -2,6 +2,8 @@
 	"installed_packages":
 	[
 		"GitGutter",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
