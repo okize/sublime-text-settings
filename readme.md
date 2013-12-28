@@ -1,1 +1,1 @@
-# Sublime Text 2 settings (sublime-text-2 branch)
+# Sublime Text 2 Settings
