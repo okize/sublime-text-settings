@@ -3,12 +3,12 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"CSScomb",
 		"All Autocomplete",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"CoffeeComplete Plus (Autocompletion)",
 		"CoffeeScriptHaml",
+		"CSScomb",
 		"Dictionaries",
 		"DocBlockr",
 		"EditorConfig",
@@ -16,8 +16,8 @@
 		"Find++",
 		"FindKeyConflicts",
 		"GitGutter",
-		"Handlebars",
 		"Haml",
+		"Handlebars",
 		"HTML5",
 		"Jade",
 		"JavaScript Snippets",
