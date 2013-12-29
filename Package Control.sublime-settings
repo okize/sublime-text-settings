@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"GitGutter",
 		"HTML5",
 		"JavaScript & NodeJS Snippets",
