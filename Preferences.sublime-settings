@@ -7,7 +7,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Okize.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
@@ -41,8 +41,8 @@
 		".sass-cache",
 		".git",
 		".hg",
-                ".bundle",
-                ".zeus.sock"
+    ".bundle",
+    ".zeus.sock"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 12.0,
@@ -64,7 +64,7 @@
 	"show_full_path": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
