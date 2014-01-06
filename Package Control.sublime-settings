@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"Dotfiles Syntax Highlighting",
 		"GitGutter",
 		"HTML5",
 		"Jade",
