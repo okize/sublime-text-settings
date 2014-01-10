@@ -129,7 +129,7 @@
 	"rulers":
 	[
 	],
-	"save_on_focus_lost": false,
+	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"scroll_speed": 1.0,
 	"shift_tab_unindent": false,
@@ -148,6 +148,6 @@
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": "auto",
+	"word_wrap": false,
 	"wrap_width": 0
 }
