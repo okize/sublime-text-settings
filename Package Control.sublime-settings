@@ -16,6 +16,8 @@
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
 		"SublimeLinter-scss-lint",
-		"Theme - Flatland"
+		"Theme - Flatland",
+		"Theme - Nil",
+		"Theme - Soda"
 	]
 }
