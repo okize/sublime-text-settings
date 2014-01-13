@@ -308,13 +308,13 @@
     </dict>
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
+            <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
-            <string>sublimelinter.mark.error</string>
+            <string>sublimelinter.gutter-mark</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#EFEFEF</string>
+                <string>#FFFFFF</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -328,13 +328,13 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
+            <string>SublimeLinter Error</string>
             <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
+            <string>sublimelinter.mark.error</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#FFFFFF</string>
+                <string>#EFEFEF</string>
             </dict>
         </dict></array>
 	<key>uuid</key>
