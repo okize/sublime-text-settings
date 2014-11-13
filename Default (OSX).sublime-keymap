@@ -19,6 +19,8 @@
 	{ "keys": ["super+shift+c"], "command": "close_all" },
 
 	{ "keys": ["super+alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
-	{ "keys": ["super+alt+shift+down"], "command": "select_lines", "args": {"forward": true} }
+	{ "keys": ["super+alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+
+	{ "keys": ["super+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} }
 
 ]
