@@ -1,32 +1,39 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"Colorsublime",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
+		"Git",
 		"GitGutter",
+		"Handlebars",
 		"HTML5",
 		"Jade",
-		"JavaScript & NodeJS Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
-		"Node Completions",
+		"Package Control",
 		"ReactJS",
 		"Ruby Slim",
+		"RubyTest",
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
-		"SublimeLinter-scss-lint",
+		"SublimeREPL",
+		"Theme - Afterglow",
 		"Theme - Flatland",
-		"Theme - Nil",
 		"Theme - Soda"
 	]
 }
